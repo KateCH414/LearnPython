@@ -3,8 +3,8 @@
 # 注意到datetime是模块，datetime模块还包含一个datetime类
 from datetime import datetime
 from datetime import timedelta
-
-
+from datetime import timezone
+import re
 if __name__ == '__main__':
     # 获取当前日期和时间
     now = datetime.now()  # datetime.now()返回当前日期和时间，其类型是datetime
@@ -49,9 +49,62 @@ if __name__ == '__main__':
 
     # datetime加减
     # 对日期和时间进行加减实际上就是把datetime往后或往前计算，得到新的datetime。加减可以直接用+和-运算符，
-    # 不过需要导入timedelta这个类
+    # 不过需要导入timedelta这个类 from datetime import timedelta
     print(now + timedelta(hours=10))  # 当前时间向后推10个小时 2021-12-29 03:31:11.341913
     print(now - timedelta(days=1))   # 当前时间往前推1天  2021-12-27 17:31:11.341913
+
+    # 本地时间转换为UTC时间
+    # 本地时间是指系统设定时区的时间，例如北京时间是UTC+8:00时区的时间，而UTC时间指UTC+0:00时区的时间。
+    # datetime类型有一个时区属性tzinfo，但是默认为None，所以无法区分这个datetime到底是哪个时区，
+    # 但是可以强行给datetime设置一个时区：
+    # from datetime import timezone
+    tz_utc_8 = timezone(timedelta(hours=8))  # 创建时区UTC+8:00
+    dt_n = now.replace(tzinfo=tz_utc_8)  # 强制设置为UTC+8:00  # 系统时区恰好是UTC+8:00，才可以设置，否则，不能强制设置为UTC+8:00时区
+    print(dt_n) # 2021-12-28 17:43:47.438007+08:00
+
+    # 时区转换
+    # 我们可以先通过utcnow()拿到当前的UTC时间，再转换为任意时区的时间
+    # # 拿到UTC时间，并强制设置时区为UTC+0:00:
+    utc_dt = datetime.utcnow().replace(tzinfo=timezone.utc)
+    print(utc_dt)  # 2021-12-28 09:47:01.411120+00:00
+    # astimezone()将转换时区为北京时间:
+    bj_dt = utc_dt.astimezone(timezone(timedelta(hours=8)))
+    print(bj_dt)  # 2021-12-28 17:48:57.884370+08:00
+
+    # astimezone()将转换时区为东京时间:
+    okyo_dt = utc_dt.astimezone(timezone(timedelta(hours=9)))
+    print(okyo_dt)  # 2021-12-28 19:16:10.411324+09:00
+
+    # astimezone()将bj_dt转换时区为东京时间
+    tokyo_dt2 = bj_dt.astimezone(timezone(timedelta(hours=9)))
+    print(tokyo_dt2)  # 2021-12-28 19:16:10.411324+09:00
+
+
+    # 练习：假设你获取了用户输入的日期和时间如2015-1-21 9:01:30，以及一个时区信息如UTC+5:00，均是str，请编写一个函数将其转换为timestamp：
+    def to_timestamp(dt_str, tz_str):
+        tz = 0
+        User_tz = re.match(r'UTC([+|-][\d]{1,2}):00', tz_str)
+        if User_tz:
+            tz = int(User_tz.group(1))
+        dt = datetime.strptime(dt_str, '%Y-%m-%d %H:%M:%S')
+        print(dt)
+        user_dt = dt.replace(tzinfo=timezone(timedelta(hours=tz)))
+        print("to_timestamp")
+        print(user_dt)
+        return user_dt.timestamp()
+
+
+    t1 = to_timestamp('2015-6-1 08:10:30', 'UTC+7:00')
+    print("t1:")
+    print(t1)
+    assert t1 == 1433121030.0
+    t2 = to_timestamp('2015-5-31 16:10:30', 'UTC-09:00')
+    print("t2:")
+    print(t2)
+    assert t2 == 1433121030.0
+
+    print('ok')
+
 
 
 
