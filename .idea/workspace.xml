@@ -2,11 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aba6d7c-a454-4bab-b960-99e86109b30e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/liao_practise/068 xml 使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liao_practise/069 HTMLParser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liao_practise/070 Pillow图像处理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liao_practise/071 requests 处理URL资源.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liao_practise/072 chardet 检测字符串编码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liao_practise/073 psutil 获取操作系统信息.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liao_practise/074 图形界面.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liao_practise/075 海龟绘图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liao_practise/076 1TCP-服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liao_practise/076 2TCP-客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liao_practise/076 网络编程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liao_practise/077 2UDP-客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liao_practise/077 UDP-服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liao_practise/078 1 STMP发送邮件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liao_practise/078 2 pop3 收取邮件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liao_practise/078 电子邮件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liao_practise/079 1 使用SQLite.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liao_practise/071 requests 处理URL资源.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/071 requests 处理URL资源.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liao_practise/Enumclass_practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/047 Enum 枚举类.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liao_practise/__call__practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/046 对实例进行调用__call__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liao_practise/__getattr__practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/045 动态返回属性__getattr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liao_practise/class_instance.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/038 实例属性和类属性.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liao_practise/dir_pra.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/037 获取对象信息dir.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liao_practise/iter__getitem__practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/044 实现list一样循环拿取数据 _iter_&amp; _getitem_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liao_practise/mixin_practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/041 mixin 多重继承.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liao_practise/property_practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/040 @property 把方法变成属性调用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liao_practise/slots_practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/039  限制实例添加属性__slots__ .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liao_practise/str__practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/043 自定义打印类__str__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liao_practise/type()与元类metaclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/048 type() 与 元类 metaclass.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,25 +37,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/liao_practise/071 requests 处理URL资源.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liao_practise/045 动态返回属性__getattr.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liao_practise/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liao_practise/038 实例属性和类属性.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+            <state relative-caret-position="26">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/liao_practise/067 urllib 操作URL.py">
+        <entry file="file://$PROJECT_DIR$/liao_practise/037 获取对象信息dir.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="36" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="36" />
-              <folding>
-                <element signature="e#28#61#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-669" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liao_practise/dump.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liao_practise/044 实现list一样循环拿取数据 _iter_&amp; _getitem_.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liao_practise/047 Enum 枚举类.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liao_practise/isinstance_practise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-162" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/liao_practise/079 1 使用SQLite.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liao_practise/048 type() 与 元类 metaclass.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -58,6 +120,7 @@
       <find>05 Feb. – 06 Feb</find>
       <find>event-title</find>
       <find>utf</find>
+      <find>level</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -66,22 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/test.py" />
-        <option value="$PROJECT_DIR$/cuihuan.py" />
-        <option value="$PROJECT_DIR$/liao_practise/class_practise.py" />
-        <option value="$PROJECT_DIR$/liao_practise/isinstance_practise.py" />
-        <option value="$PROJECT_DIR$/liao_practise/dir_pra.py" />
-        <option value="$PROJECT_DIR$/liao_practise/class_instance.py" />
-        <option value="$PROJECT_DIR$/liao_practise/slots_practise.py" />
-        <option value="$PROJECT_DIR$/liao_practise/property_practise.py" />
-        <option value="$PROJECT_DIR$/liao_practise/mixin_practise.py" />
-        <option value="$PROJECT_DIR$/liao_practise/__str__.py" />
-        <option value="$PROJECT_DIR$/liao_practise/practise__str__.py" />
-        <option value="$PROJECT_DIR$/liao_practise/iter__practise.py" />
-        <option value="$PROJECT_DIR$/liao_practise/iter__getitem__practise.py" />
-        <option value="$PROJECT_DIR$/liao_practise/__getattr__practise.py" />
-        <option value="$PROJECT_DIR$/liao_practise/__call__practise.py" />
-        <option value="$PROJECT_DIR$/liao_practise/Enumclass_practise.py" />
         <option value="$PROJECT_DIR$/可变参数.py" />
         <option value="$PROJECT_DIR$/liao_practise/metaclass_practise.py" />
         <option value="$PROJECT_DIR$/liao_practise/可变参数.py" />
@@ -117,11 +164,28 @@
         <option value="$PROJECT_DIR$/liao_practise/068 Pillow图像处理.py" />
         <option value="$PROJECT_DIR$/liao_practise/070 Pillow图像处理.py" />
         <option value="$PROJECT_DIR$/liao_practise/071 requests 处理URL资源.py" />
+        <option value="$PROJECT_DIR$/liao_practise/072 chardet 处理字符串.py" />
+        <option value="$PROJECT_DIR$/liao_practise/072 chardet 检测字符串编码.py" />
+        <option value="$PROJECT_DIR$/liao_practise/073 psutil 获取操作系统信息.py" />
+        <option value="$PROJECT_DIR$/liao_practise/074 图形界面.py" />
+        <option value="$PROJECT_DIR$/liao_practise/075 海龟绘图.py" />
+        <option value="$PROJECT_DIR$/liao_practise/076 网络编程.py" />
+        <option value="$PROJECT_DIR$/liao_practise/0761 网络编程--服务端.py" />
+        <option value="$PROJECT_DIR$/liao_practise/0762 网络编程-客户端.py" />
+        <option value="$PROJECT_DIR$/liao_practise/077 UDP.py" />
+        <option value="$PROJECT_DIR$/liao_practise/077 2UDP-客户端.py" />
+        <option value="$PROJECT_DIR$/liao_practise/077 UDP-服务端.py" />
+        <option value="$PROJECT_DIR$/liao_practise/078 电子邮件.py" />
+        <option value="$PROJECT_DIR$/liao_practise/078 1 STMP发送邮件.py" />
+        <option value="$PROJECT_DIR$/liao_practise/078 2 pop3 收取邮件.py" />
+        <option value="$PROJECT_DIR$/liao_practise/079 数据库.py" />
+        <option value="$PROJECT_DIR$/liao_practise/079 1 使用SQLite.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="726" />
+    <option name="width" value="714" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -184,8 +248,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.067 urllib 操作URL">
-    <configuration name="067 urllib 操作URL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.078 1 STMP发送邮件">
+    <configuration name="0761 网络编程--服务端" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,7 +261,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liao_practise/067 urllib 操作URL.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liao_practise/076 1TCP-服务端.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="068 xml 使用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="0762 网络编程-客户端" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,7 +282,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liao_practise/068 xml 使用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liao_practise/076 2TCP-客户端.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,7 +291,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="069 HTMLParser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="077 2UDP-客户端" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,7 +303,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liao_practise/069 HTMLParser.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liao_practise/077 2UDP-客户端.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,7 +312,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="070 Pillow图像处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="077 UDP-服务端" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,7 +324,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liao_practise/070 Pillow图像处理.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liao_practise/077 UDP-服务端.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,7 +333,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="071 requests 处理URL资源" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="078 1 STMP发送邮件" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,7 +345,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liao_practise/071 requests 处理URL资源.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liao_practise/078 1 STMP发送邮件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,11 +356,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.067 urllib 操作URL" />
-        <item itemvalue="Python.071 requests 处理URL资源" />
-        <item itemvalue="Python.070 Pillow图像处理" />
-        <item itemvalue="Python.069 HTMLParser" />
-        <item itemvalue="Python.068 xml 使用" />
+        <item itemvalue="Python.078 1 STMP发送邮件" />
+        <item itemvalue="Python.077 2UDP-客户端" />
+        <item itemvalue="Python.077 UDP-服务端" />
+        <item itemvalue="Python.0762 网络编程-客户端" />
+        <item itemvalue="Python.0761 网络编程--服务端" />
       </list>
     </recent_temporary>
   </component>
@@ -328,15 +392,15 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="714" y="0" width="726" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18534179" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.30496454" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5060241" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.48554218" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -351,202 +415,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/liao_practise/0611 分布式任务进程.py" />
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/multiprocessing/managers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="833" selection-start-line="833" selection-end-line="833" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/061 分布式进程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="52" column="23" lean-forward="true" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/type_practise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/class_instance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/cuihuan/login.py" />
-    <entry file="file://$PROJECT_DIR$/test/cuihuan/test_moban.py" />
-    <entry file="file://$PROJECT_DIR$/图片分帧.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/type()与元类metaclass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/dump.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/Enumclass_practise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/062 正则表达式.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/063 常用的模块-datetime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="97" column="16" selection-start-line="97" selection-start-column="16" selection-end-line="97" selection-end-column="16" />
-          <folding>
-            <element signature="e#96#125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/064 collections集合类.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="99" column="35" selection-start-line="99" selection-start-column="35" selection-end-line="99" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2385">
-          <caret line="188" column="6" selection-start-line="188" selection-start-column="6" selection-end-line="188" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/test/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="21" selection-start-line="3" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="e#27#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cuihuan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-end-line="1" />
-          <folding>
-            <element signature="e#25#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/iter__getitem__practise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/property_practise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/base64.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="86" column="24" selection-start-line="86" selection-start-column="24" selection-end-line="86" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.3/python_stubs/-139322678/binascii.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/__call__practise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.3/python_stubs/-139322678/itertools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="240" column="6" selection-start-line="240" selection-start-column="6" selection-end-line="240" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/066 itertools 操作迭代对象.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/ssl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="591" column="4" selection-start-line="591" selection-start-column="4" selection-end-line="591" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/065 base64.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
-          <caret line="574" column="4" selection-start-line="574" selection-start-column="4" selection-end-line="574" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.3/python_stubs/-139322678/pyexpat/model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-74" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.3/python_stubs/-139322678/pyexpat/errors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-752" />
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/xmlrpc/client.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -675,10 +543,200 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages/requests/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="614" column="31" lean-forward="true" selection-start-line="614" selection-start-column="31" selection-end-line="614" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages/requests/structures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/liao_practise/071 requests 处理URL资源.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+        <state relative-caret-position="255">
+          <caret line="17" column="42" lean-forward="true" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/072 chardet 检测字符串编码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="27" column="23" lean-forward="true" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/073 psutil 获取操作系统信息.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="1176" selection-start-line="1176" selection-end-line="1176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/sina.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="68" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="211" column="27" selection-start-line="211" selection-start-column="27" selection-end-line="211" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/076 网络编程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/075 海龟绘图.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="94" column="9" lean-forward="true" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/074 图形界面.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+          <folding>
+            <element signature="e#328#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/076 2TCP-客户端.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/076 1TCP-服务端.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding>
+            <element signature="e#303#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/077 2UDP-客户端.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picture/images.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/077 UDP-服务端.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/078 电子邮件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/email/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/078 1 STMP发送邮件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="61" column="29" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+          <folding>
+            <element signature="e#170#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/078 2 pop3 收取邮件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+          <folding>
+            <element signature="e#364#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/046 对实例进行调用__call__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/045 动态返回属性__getattr.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/038 实例属性和类属性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/037 获取对象信息dir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-669" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/dump.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/047 Enum 枚举类.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/048 type() 与 元类 metaclass.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/044 实现list一样循环拿取数据 _iter_&amp; _getitem_.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/isinstance_practise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/079 1 使用SQLite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>

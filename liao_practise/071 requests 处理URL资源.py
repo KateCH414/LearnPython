@@ -36,16 +36,34 @@ if __name__ == '__main__':
     # 要发送POST请求，只需要把get()方法变成post()，然后传入data参数作为POST请求的数据：
     r4 = requests.post('https://accounts.douban.com/login',
                       data={'form_email': 'abc@example.com', 'form_password': '123456'})
-    # requests默认使用application/x-www-form-urlencoded对POST数据编码。如果要传递JSON数据，可以直接传入json参数：
-    url = 'www.baidu.com'
-    params = {'key': 'value'}
-    r5 = requests.post(url, json=params)  # 内部自动序列化为JSON
 
-
-    # 上传文件需要更复杂的编码格式，但是requests把它简化成files参数
-    upload_files = {'file': open('report.xls', 'rb')}
-    r6 = requests.post(url, files=upload_files)
-
+    # # requests默认使用application/x-www-form-urlencoded对POST数据编码。如果要传递JSON数据，可以直接传入json参数：
+    # url = 'www.baidu.com'
+    # params = {'key': 'value'}
+    # r5 = requests.post(url, json=params)  # 内部自动序列化为JSON
+    #
+    #
+    # # 上传文件需要更复杂的编码格式，但是requests把它简化成files参数
+    # upload_files = {'file': open('report.xls', 'rb')}  # 在读取文件时，注意务必使用'rb'即二进制模式读取，这样获取的bytes长度才是文件的长度
+    # r6 = requests.post(url, files=upload_files)
+    # # 把post()方法替换为put()，delete()等，就可以以PUT或DELETE方式请求资源。
+    #
+    # # requests对获取HTTP响应的其他信息也非常简单
+    # # 获取响应头
+    # print(r6.headers)
+    # print(r6.headers['Content-Type'])
+    #
+    # # requests对Cookie做了特殊处理，使得我们不必解析Cookie就可以轻松获取指定的Cookie：
+    # # r.cookies['ts']
+    #
+    # # 要在请求中传入Cookie，只需准备一个dict传入cookies参数
+    # cs = {'token': '12345', 'status': 'working'}
+    # r7 = requests.get(url, cookies=cs)
+    #
+    # # 指定超时，传入以秒为单位的timeout参数
+    # r8 = requests.get(url, timeout=2.5)
+    #
+    #
 
 
 
