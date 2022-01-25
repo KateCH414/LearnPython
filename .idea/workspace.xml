@@ -2,32 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aba6d7c-a454-4bab-b960-99e86109b30e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/liao_practise/072 chardet 检测字符串编码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liao_practise/073 psutil 获取操作系统信息.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liao_practise/074 图形界面.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liao_practise/075 海龟绘图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liao_practise/076 1TCP-服务端.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liao_practise/076 2TCP-客户端.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liao_practise/076 网络编程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liao_practise/077 2UDP-客户端.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liao_practise/077 UDP-服务端.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liao_practise/078 1 STMP发送邮件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liao_practise/078 2 pop3 收取邮件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liao_practise/078 电子邮件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liao_practise/079 1 使用SQLite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liao_practise/079 2 使用mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liao_practise/079 3 使用SQLAlchemy 关系数据库的表结构映射到对象.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liao_practise/071 requests 处理URL资源.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/071 requests 处理URL资源.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liao_practise/Enumclass_practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/047 Enum 枚举类.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liao_practise/__call__practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/046 对实例进行调用__call__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liao_practise/__getattr__practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/045 动态返回属性__getattr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liao_practise/class_instance.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/038 实例属性和类属性.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liao_practise/dir_pra.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/037 获取对象信息dir.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liao_practise/iter__getitem__practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/044 实现list一样循环拿取数据 _iter_&amp; _getitem_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liao_practise/mixin_practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/041 mixin 多重继承.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liao_practise/property_practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/040 @property 把方法变成属性调用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liao_practise/slots_practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/039  限制实例添加属性__slots__ .py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liao_practise/str__practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/043 自定义打印类__str__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liao_practise/type()与元类metaclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/048 type() 与 元类 metaclass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liao_practise/079 1 使用SQLite.py" beforeDir="false" afterPath="$PROJECT_DIR$/liao_practise/079 1 使用SQLite.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,37 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/liao_practise/045 动态返回属性__getattr.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/liao_practise/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/liao_practise/038 实例属性和类属性.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/liao_practise/037 获取对象信息dir.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-669" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/liao_practise/dump.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/liao_practise/044 实现list一样循环拿取数据 _iter_&amp; _getitem_.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -80,16 +28,56 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/liao_practise/isinstance_practise.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liao_practise/079 1 使用SQLite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-162" />
+            <state relative-caret-position="1380">
+              <caret line="93" selection-start-line="93" selection-end-line="93" />
+              <folding>
+                <element signature="e#638#647#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liao_practise/079 2 使用mysql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+            </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/liao_practise/079 1 使用SQLite.py">
+        <entry file="file://$PROJECT_DIR$/liao_practise/079 3 使用SQLAlchemy 关系数据库的表结构映射到对象.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="318">
+              <caret line="103" column="19" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
+              <folding>
+                <element signature="e#672#724#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../seleboss/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="206" selection-start-line="206" selection-end-line="206" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../seleboss/venv/lib/python3.7/site-packages/sqlalchemy/orm/session.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="2602" selection-start-line="2602" selection-end-line="2602" />
             </state>
           </provider>
         </entry>
@@ -129,8 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/可变参数.py" />
-        <option value="$PROJECT_DIR$/liao_practise/metaclass_practise.py" />
         <option value="$PROJECT_DIR$/liao_practise/可变参数.py" />
         <option value="$PROJECT_DIR$/liao_practise/错误处理.py" />
         <option value="$PROJECT_DIR$/liao_practise/调试.py" />
@@ -180,10 +166,12 @@
         <option value="$PROJECT_DIR$/liao_practise/078 2 pop3 收取邮件.py" />
         <option value="$PROJECT_DIR$/liao_practise/079 数据库.py" />
         <option value="$PROJECT_DIR$/liao_practise/079 1 使用SQLite.py" />
+        <option value="$PROJECT_DIR$/liao_practise/079 2 使用mysql.py" />
+        <option value="$PROJECT_DIR$/liao_practise/079 3 使用SQLAlchemy 关系数据库的表结构映射到对象.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="726" />
     <option name="width" value="714" />
     <option name="height" value="900" />
@@ -210,6 +198,10 @@
               <item name="python_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_test" type="462c0819:PsiDirectoryNode" />
               <item name="picture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -248,91 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.078 1 STMP发送邮件">
-    <configuration name="0761 网络编程--服务端" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/liao_practise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liao_practise/076 1TCP-服务端.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="0762 网络编程-客户端" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/liao_practise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liao_practise/076 2TCP-客户端.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="077 2UDP-客户端" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/liao_practise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liao_practise/077 2UDP-客户端.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="077 UDP-服务端" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/liao_practise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liao_practise/077 UDP-服务端.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.079 3 使用SQLAlchemy 关系数据库的表结构映射到对象">
     <configuration name="078 1 STMP发送邮件" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -354,13 +262,97 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="079 1 使用SQLite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/liao_practise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liao_practise/079 1 使用SQLite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="079 2 使用mysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/liao_practise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liao_practise/079 2 使用mysql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="079 3 使用SQLAlchemy 关系数据库的表结构映射到对象" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/liao_practise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liao_practise/079 3 使用SQLAlchemy 关系数据库的表结构映射到对象.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="compat" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../seleboss/venv/lib/python3.7/site-packages/sqlalchemy/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../seleboss/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.079 3 使用SQLAlchemy 关系数据库的表结构映射到对象" />
+        <item itemvalue="Python.compat" />
+        <item itemvalue="Python.079 2 使用mysql" />
+        <item itemvalue="Python.079 1 使用SQLite" />
         <item itemvalue="Python.078 1 STMP发送邮件" />
-        <item itemvalue="Python.077 2UDP-客户端" />
-        <item itemvalue="Python.077 UDP-服务端" />
-        <item itemvalue="Python.0762 网络编程-客户端" />
-        <item itemvalue="Python.0761 网络编程--服务端" />
       </list>
     </recent_temporary>
   </component>
@@ -392,15 +384,15 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="714" y="0" width="726" height="900" extended-state="6" />
+    <frame x="726" y="0" width="714" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.30496454" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3030303" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5060241" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5060241" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.48554218" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -415,37 +407,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/xmlrpc/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="438" column="23" selection-start-line="438" selection-start-column="23" selection-end-line="438" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/xml/parsers/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/xml/sax/_exceptions.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/xml/sax/expatreader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2701">
-          <caret line="106" column="29" lean-forward="true" selection-start-line="106" selection-start-column="29" selection-end-line="106" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/xml/sax/handler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1138" />
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/xml/sax/xmlreader.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/xml/sax/saxutils.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/xml/parsers/expat.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -479,9 +440,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/thumbnail.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/thumbnail.jpg" />
     <entry file="file://$PROJECT_DIR$/../seleboss/venv/lib/python3.7/site-packages/PIL/ImageFilter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
@@ -701,42 +660,87 @@
     <entry file="file://$PROJECT_DIR$/liao_practise/045 动态返回属性__getattr.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/test.db" />
     <entry file="file://$PROJECT_DIR$/liao_practise/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/liao_practise/038 实例属性和类属性.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
+        <state relative-caret-position="30">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/liao_practise/037 获取对象信息dir.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-669" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/liao_practise/dump.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/047 Enum 枚举类.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liao_practise/048 type() 与 元类 metaclass.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/liao_practise/044 实现list一样循环拿取数据 _iter_&amp; _getitem_.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/047 Enum 枚举类.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/liao_practise/isinstance_practise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/liao_practise/079 1 使用SQLite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="1380">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="e#638#647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/079 2 使用mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/048 type() 与 元类 metaclass.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.3/python_stubs/-139322678/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="2586" column="8" selection-start-line="2586" selection-start-column="8" selection-end-line="2586" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seleboss/venv/lib/python3.7/site-packages/mysql/connector/cursor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="571" selection-start-line="571" selection-end-line="571" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seleboss/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="206" selection-start-line="206" selection-end-line="206" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seleboss/venv/lib/python3.7/site-packages/sqlalchemy/orm/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="2602" selection-start-line="2602" selection-end-line="2602" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liao_practise/079 3 使用SQLAlchemy 关系数据库的表结构映射到对象.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="103" column="19" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
+          <folding>
+            <element signature="e#672#724#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
